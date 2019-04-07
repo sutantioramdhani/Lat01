@@ -23,6 +23,7 @@
 
         <activity android:name=".login" />
         <activity android:name=".Biodata" />
+        <activity android:name=".Akhir"></activity>
     </application>
 
 </manifest>
